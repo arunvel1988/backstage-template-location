@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: backstage-templates
+spec:
+  type: github-discovery
+  target: https://github.com/arunvel1988/backstage-templates
